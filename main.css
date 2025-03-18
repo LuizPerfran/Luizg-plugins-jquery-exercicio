@@ -56,9 +56,12 @@ h2 {
     border: none;
     cursor: pointer;
     font-weight: bold;
-    display: inline-block;
+    display: block;
+    margin: 0 auto;
 }
 
 .error {
-    color: red
+    color: red;
+    font-size: 0.9em;
+    margin-top: 5px;
 }
